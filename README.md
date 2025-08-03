@@ -56,3 +56,10 @@ Inverter completamente as posições das peças:
 - **HTML5**: Estrutura da página
 - **CSS3**: Estilização e layout responsivo
 - **JavaScript**: Lógica do jogo e interatividade
+
+## Informações
+
+- Aluno: Daniel Alves Thielmann
+- Professor: Igor Knop
+- Disciplina: DCC202
+- ATV: 05
