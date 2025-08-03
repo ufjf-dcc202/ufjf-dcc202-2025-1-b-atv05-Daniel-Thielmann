@@ -2,6 +2,8 @@
 
 # Jogo das Peças - Inversão
 
+🎮 **[Jogar Online](https://ufjf-dcc202.github.io/ufjf-dcc202-2025-1-b-atv05-Daniel-Thielmann/)**
+
 ## Descrição
 
 Este é um jogo de puzzle clássico onde o objetivo é inverter a posição das peças brancas e pretas em um tabuleiro linear. O jogo apresenta um desafio de lógica que requer planejamento estratégico para ser resolvido no menor número de movimentos possível.
@@ -59,7 +61,9 @@ Inverter completamente as posições das peças:
 
 ## Informações
 
-- Aluno: Daniel Alves Thielmann
-- Professor: Igor Knop
-- Disciplina: DCC202
-- ATV: 05
+- **Aluno**: Daniel Alves Thielmann
+- **Professor**: Igor Knop
+- **Disciplina**: DCC202 - Desenvolvimento de Interfaces Web
+- **Atividade**: 05
+- **Repositório**: [GitHub](https://github.com/ufjf-dcc202/ufjf-dcc202-2025-1-b-atv05-Daniel-Thielmann)
+- **Deploy**: [GitHub Pages](https://ufjf-dcc202.github.io/ufjf-dcc202-2025-1-b-atv05-Daniel-Thielmann/)
